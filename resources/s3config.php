@@ -6,8 +6,8 @@ return [
         
         'version' => 'latest',
         'region' => 'us-east-2',
-        'key' => 'AKIAJ7MIHGEH2YQB5WVA',
-        'secret' => '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',
+        'key' => 'AKIAIBWFLS6IUANHDTEA',
+        'secret' => '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',
         'bucket' => 'morris3'
     
     ]
