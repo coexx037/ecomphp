@@ -413,7 +413,7 @@ confirm($query);
 
 while($row = fetch_array($query)){
     
-$selected = ($row['cat_id'] == $product_category_id) ? "selected" : "";
+//$selected = ($row['cat_id'] == $product_category_id) ? "selected" : "";
         
 $category_options = <<<DELIMETER
 
