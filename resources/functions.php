@@ -406,7 +406,7 @@ function add_product(){
 
 
 
-function show_categories($product_category_id){
+function show_categories(){
     
 $query = query("select * from categories");
 confirm($query);
